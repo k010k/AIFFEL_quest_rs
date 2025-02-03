@@ -1,5 +1,3 @@
-# Exploration
-
 ## AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김영만 님
 - 리뷰어 : 김천지 님
@@ -30,7 +28,7 @@
     - 주석 없이도 코드가 무슨 역할을 하는지 직관적으로 확인이 가능하다.
 
 
-## 회고(참고 링크 및 코드 개선)
+# 회고(참고 링크 및 코드 개선)
 ```
 
 ```
