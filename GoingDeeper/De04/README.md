@@ -6,7 +6,7 @@
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - seq2seq 인코더, 디코더, 바다나우 어탠션 코드와 결과가 첨부되어 있음.
-        - ![alt text](screenshot/image_1png)
+        - ![alt text](screenshot/image_1.png)
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 각 코드마다 주석처리하여 코드로 알아보긴 정규표현식의 가독성을 높임.
